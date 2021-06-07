@@ -58,7 +58,6 @@
     <instance objName="obj_wall" x="578" y="411" name="inst_83DDD9E0" locked="0" code="" scaleX="0.200000002980232" scaleY="5.19999980926514" colour="4294967295" rotation="90"/>
     <instance objName="obj_wall" x="574" y="507" name="inst_ADBAA2EC" locked="0" code="" scaleX="3.17000007629395" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="portas" x="545" y="492" name="inst_6BB20A19" locked="0" code="portax = 2237;&#xA;portay = 55;&#xA;portaestado =2;&#xA;goto= room_Curio;&#xA;img = obj_victor.img_baixo;&#xA;" scaleX="1.80645155906677" scaleY="0.0967741906642914" colour="4294967295" rotation="0"/>
-    <instance objName="obj_victor" x="537" y="456" name="inst_6A3A10F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
