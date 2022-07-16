@@ -1,0 +1,138 @@
+A fonte fnt foi convertida na família de fontes Arial (Bold)
+A textura da fonte do GameMaker Studio 1 foi copiada em ${project_dir}\fonts\fnt\fnt.gms1.png
+A fonte font_debug foi convertida na família de fontes Arial (Regular)
+A textura da fonte do GameMaker Studio 1 foi copiada em ${project_dir}\fonts\font_debug\font_debug.gms1.png
+A fonte font_HUD foi convertida na família de fontes Segoe UI Semibold (Semibold)
+A textura da fonte do GameMaker Studio 1 foi copiada em ${project_dir}\fonts\font_HUD\font_HUD.gms1.png
+!!! A fonte font_menu usa uma fonte (Pokemon Classic) não instalada neste sistema - a fonte NÃO foi regenerada
+A textura da fonte do GameMaker Studio 1 foi copiada em ${project_dir}\fonts\font_menu\font_menu.gms1.png
+Convertendo script GML: ${project_dir}\objects\obj_victor\Step_0.gml
+Descrição convertida /// @description  Stepzao
+Cadeia convertida - linha 20: 'U' -> "U"
+Cadeia convertida - linha 23: 'I' -> "I"
+Cadeia convertida - linha 32: 'W' -> "W"
+Cadeia convertida - linha 35: 'S' -> "S"
+Cadeia convertida - linha 38: 'A' -> "A"
+Cadeia convertida - linha 41: 'D' -> "D"
+Cadeia convertida - linha 201: 'U' -> "U"
+Cadeia convertida - linha 202: 'U' -> "U"
+Cadeia convertida - linha 204: 'I' -> "I"
+Cadeia convertida - linha 205: 'I' -> "I"
+Cadeia convertida - linha 213: 'W' -> "W"
+Cadeia convertida - linha 214: 'W' -> "W"
+Cadeia convertida - linha 216: 'S' -> "S"
+Cadeia convertida - linha 217: 'S' -> "S"
+Cadeia convertida - linha 219: 'A' -> "A"
+Cadeia convertida - linha 220: 'A' -> "A"
+Cadeia convertida - linha 222: 'D' -> "D"
+Cadeia convertida - linha 223: 'D' -> "D"
+
+Convertendo script GML: ${project_dir}\objects\obj_isaac\Step_0.gml
+Descrição convertida /// @description  executar etado
+
+Convertendo script GML: ${project_dir}\objects\obj_text_universal_parent\Create_0.gml
+Erro: a variável “message” tem o mesmo nome de um interno (função, constante ou variável), deve ser renomeada para funcionar corretamente
+
+Convertendo script GML: ${project_dir}\objects\obj_text_universal_parent\Step_0.gml
+Erro: a variável “message” tem o mesmo nome de um interno (função, constante ou variável), deve ser renomeada para funcionar corretamente
+
+Convertendo script GML: ${project_dir}\objects\obj_text_universal_parent\Collision_b5a76353-af38-4621-8165-d0ab7d050cbd.gml
+Erro: a variável “message” tem o mesmo nome de um interno (função, constante ou variável), deve ser renomeada para funcionar corretamente
+
+Convertendo script GML: ${project_dir}\objects\obj_text_1\Create_0.gml
+Erro: a variável “message” tem o mesmo nome de um interno (função, constante ou variável), deve ser renomeada para funcionar corretamente
+
+Convertendo script GML: ${project_dir}\objects\obj_mulher_porta\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+
+Convertendo script GML: ${project_dir}\objects\obj_porta_desbloqueavel\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+
+Convertendo script GML: ${project_dir}\objects\portas\Step_0.gml
+Descrição convertida /// @description q
+
+Convertendo script GML: ${project_dir}\objects\obj_setup\Create_0.gml
+Descrição convertida /// @description 
+
+Convertendo script GML: ${project_dir}\objects\obj_setup\Step_0.gml
+Cadeia convertida - linha 39: 'U' -> "U"
+Cadeia convertida - linha 40: 'U' -> "U"
+Cadeia convertida - linha 41: 'U' -> "U"
+Cadeia convertida - linha 42: 'U' -> "U"
+Cadeia convertida - linha 43: 'U' -> "U"
+Cadeia convertida - linha 44: 'U' -> "U"
+Cadeia convertida - linha 63: 'S' -> "S"
+Cadeia convertida - linha 64: 'W' -> "W"
+Cadeia convertida - linha 65: 'I' -> "I"
+Cadeia convertida - linha 87: 'U' -> "U"
+Cadeia convertida - linha 104: 'U' -> "U"
+Cadeia convertida - linha 121: 'U' -> "U"
+Cadeia convertida - linha 138: 'D' -> "D"
+Cadeia convertida - linha 139: 'A' -> "A"
+Cadeia convertida - linha 155: 'S' -> "S"
+Cadeia convertida - linha 156: 'W' -> "W"
+Cadeia convertida - linha 157: 'I' -> "I"
+Cadeia convertida - linha 199: 'S' -> "S"
+Cadeia convertida - linha 200: 'W' -> "W"
+Cadeia convertida - linha 201: 'I' -> "I"
+Cadeia convertida - linha 202: 'U' -> "U"
+Cadeia convertida - linha 286: 'U' -> "U"
+Cadeia convertida - linha 315: 'S' -> "S"
+Cadeia convertida - linha 316: 'W' -> "W"
+Cadeia convertida - linha 317: 'I' -> "I"
+
+Convertendo script GML: ${project_dir}\objects\obj_loja\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+Cadeia convertida - linha 2: 'I' -> "I"
+
+Convertendo script GML: ${project_dir}\objects\obj_itens\Step_0.gml
+Descrição convertida /// @description mochilas
+Cadeia convertida - linha 11: 'U' -> "U"
+Cadeia convertida - linha 42: 'U' -> "U"
+Cadeia convertida - linha 73: 'U' -> "U"
+Cadeia convertida - linha 104: 'U' -> "U"
+
+Convertendo script GML: ${project_dir}\objects\obj_item_chave_da_mulher\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+
+Convertendo script GML: ${project_dir}\objects\obj_item_tesoura\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+
+Convertendo script GML: ${project_dir}\objects\obj_cartazFMA\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+Cadeia convertida - linha 2: 'I' -> "I"
+
+Convertendo script GML: ${project_dir}\objects\obj_cartazKAI\Step_0.gml
+Cadeia convertida - linha 1: 'U' -> "U"
+Cadeia convertida - linha 2: 'I' -> "I"
+
+Grupo de áudio ausente para som: “som_carro_andando” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_carro_andando2” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_carro_batendo” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_grito_de_morte” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_ossos_quebrando” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_grito_de_morte2” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_porta_abrindo” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_se_fudeu” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_galinha” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_galinha2” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_passo1” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_passo2” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_passo3” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_passo4” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “som_passo8” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_carro_do_julio” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_carro_do_julio2” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_carro_do_julio3” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_carro_do_julio4” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_casa_generica” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_inocent_world” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_loja” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_curio” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_casa_do_victor” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_sem_musica” - configurando para o grupo de áudio padrão
+Grupo de áudio ausente para som: “musica_hospital” - configurando para o grupo de áudio padrão
+Jogo velocidade definido para 30
+Compatibilidade de script adicionado: instance/instance_create.gml
+Compatibilidade de script adicionado: object/object_get_depth.gml
+Compatibilidade de script adicionado: __global_object_depths.gml

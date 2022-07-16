@@ -1,0 +1,1 @@
+global.musica = musica_casa_do_victor;

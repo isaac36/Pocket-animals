@@ -1,0 +1,2 @@
+global.moving = true;
+

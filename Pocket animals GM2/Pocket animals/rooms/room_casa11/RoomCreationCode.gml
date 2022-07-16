@@ -1,0 +1,1 @@
+global.musica = musica_loja;

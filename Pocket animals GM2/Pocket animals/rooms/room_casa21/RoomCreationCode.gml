@@ -1,0 +1,1 @@
+global.musica = musica_inocent_world;
